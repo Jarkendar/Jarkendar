@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Jarek
 
-- 🔭 I’m currently working on: Seeking a new challenge in Android Development while building a portfolio of AI-enhanced mobile patterns and agentic workflows.
-- 🌱 I’m currently learning: Redefining developer productivity through Agentic Systems (e.g., leveraging Aider with Anthropic’s Claude 4.5 Sonnet).
-- 👯 I’m looking to collaborate on: Projects involving Kotlin Multiplatform (KMP), autonomous AI agents, or high-performance mobile SDKs.
-- 🤔 I’m looking for help with: Best practices for scaling KMP in large-scale production environments and architecting robust agentic loops.
+- 🔭 **I’m currently working on:** Seeking a new challenge in Android Development while building a portfolio of AI-enhanced mobile patterns and agentic workflows.
+- 🌱 **I’m currently learning:** Redefining developer productivity through Agentic Systems (e.g., leveraging Aider with Anthropic’s Claude 4.5 Sonnet).
+- 👯 **I’m looking to collaborate on:** Projects involving Kotlin Multiplatform (KMP), autonomous AI agents, or high-performance mobile SDKs.
+- 🤔 **I’m looking for help with:** Best practices for scaling KMP in large-scale production environments and architecting robust agentic loops.
 - 💬 **Ask me about:** * **Team Impact:** How we reduced SDK integration time to **10 minutes** for external clients.
     * **Performance:** Why **95% of mobile latency** is often not where you think it is.
     * **Modern Tooling:** Building agentic workflows with **Aider & Claude** to increase developer productivity.
