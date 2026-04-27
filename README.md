@@ -21,7 +21,7 @@
 | **Specialized** | Navigation (Mapbox SDK), Android Auto, SDK Design |
 | **Tooling & DevOps** | GitLab CI, Gradle (Kotlin DSL), Python (Automation) |
 | **R&D / Data** | PyTorch, OpenCV, Image Processing |
-| **LLM / AI Infra** | Ollama, Docker Compose, Open WebUI, multi-model serving, KV cache & context tuning |
+| **LLM / AI Infra** | Ollama, Docker Compose, Claude Code, Aider |
 | **Automation** | n8n, Python daemons, systemd, custom Docker images, HTTP webhooks |
 | **Self-hosted** | Raspberry Pi, home lab, container orchestration, Wake-on-LAN |
 | **AI / Prompt Eng.** | Semantic search, multilingual embeddings (MiniLM), prompt design, GitHub Actions automation |
